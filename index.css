@@ -124,7 +124,7 @@ hr {
 
 /* mobile version */
 
-@media screen and (max-width: 375px) {
+@media only screen and (max-width: 375px) {
     .container {
         width: 13.125rem;
         padding: 4.375rem 2.8125rem 0 2.8125rem;
