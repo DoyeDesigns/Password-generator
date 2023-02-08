@@ -151,7 +151,7 @@ hr {
 
 @media screen and (max-width: 400px) {
     .container {
-        width: 20rem;
+        width: 18.75rem;
         padding: 4.375rem 2.8125rem 0 2.8125rem;
     }
     main{
